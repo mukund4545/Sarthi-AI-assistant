@@ -1,7 +1,7 @@
-# Jarvis Chatbot
+# Sarthi Chatbot
 
 ## Overview
-Jarvis Chatbot is an AI-powered chatbot that utilizes OpenAI's technology to interact with users in a conversational manner. The chatbot is designed to understand user inputs and provide relevant responses, making it a versatile tool for various applications.
+Sarthi Chatbot is an AI-powered chatbot that utilizes OpenAI's technology to interact with users in a conversational manner. The chatbot is designed to understand user inputs and provide relevant responses, making it a versatile tool for various applications.
 
 ## Features
 - **Natural Language Processing**: Leverages OpenAI's API to understand and generate human-like responses.
@@ -10,7 +10,7 @@ Jarvis Chatbot is an AI-powered chatbot that utilizes OpenAI's technology to int
 
 ## Project Structure
 ```
-jarvis-chatbot
+Sarthi-chatbot
 ├── src
 │   ├── app.ts               # Entry point of the application
 │   ├── bot
@@ -33,7 +33,7 @@ jarvis-chatbot
    ```
 2. Navigate to the project directory:
    ```
-   cd jarvis-chatbot
+   cd Sarthi-chatbot
    ```
 3. Install the dependencies:
    ```
@@ -50,5 +50,4 @@ This will initialize the server and allow you to interact with the chatbot.
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
